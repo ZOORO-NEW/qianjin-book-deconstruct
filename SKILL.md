@@ -5,7 +5,8 @@ version: "1.0.0"
 summary: "把任意一本书拆解成可迁移、可践行的核心知识学习体系：一句话内核、系统地图、要点提炼、概念速查、行动原则、小节拆解、践行路线、边界延伸。"
 license: MIT
 name: qianjin-book-deconstruct
-description: "This skill should be used when the user wants to deconstruct ANY book — Chinese classics, business, psychology, science, history, biography, self-help, technical — into a systematic, learnable knowledge framework. It produces a structured study guide with a one-sentence core, a system map, key points mapped to modern scenarios, a concept glossary, immediately actionable principles, and per-section breakdowns, turning scattered reading into a transferable system."
+description: "把任意一本书（国学经典、商业、心理、科学、历史、传记、自助、技术）拆成可迁移的知识体系：一句话内核、系统地图、要点提炼、概念速查、行动原则、逐节拆解，把零散阅读变成能直接上手的系统。"
+
 agent_created: true
 ---
 
