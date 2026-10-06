@@ -2,6 +2,7 @@
 slug: qianjin-book-deconstruct
 displayName: 通用拆书系统化学习
 version: "1.0.0"
+platforms: [workbuddy, claude-code, cursor, windsurf, codex, linux, macos, windows]
 summary: "把任意一本书拆解成可迁移、可践行的核心知识学习体系：一句话内核、系统地图、要点提炼、概念速查、行动原则、小节拆解、践行路线、边界延伸。"
 license: MIT
 name: qianjin-book-deconstruct
